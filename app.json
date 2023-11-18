@@ -7,10 +7,10 @@
     "sharing"
   ],
   "repository": "https://github.com/ASTARAYYY/File",
-  "logo": "https://ibb.co/FgPVtzw",
+  "logo": "http://telegra.ph/file/195a8441009be1eca7470.jpg",
   "env": {
     "TG_BOT_TOKEN": {
-      "description": "6505451357:AAGTjycsmQ0N7qQX1tEcsWc04sBDVSlsQ-E",,
+      "description": "6505451357:AAGTjycsmQ0N7qQX1tEcsWc04sBDVSlsQ-E",
       "value": ""
     },
     "OWNER_ID": {
@@ -34,11 +34,11 @@
       "value": ""
     },
     "CHANNEL_ID":{
-      "description": "-1001838759967",
+      "description": "-1002041279635",
       "value": "-100"
     },
     "FORCE_SUB_CHANNEL":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "description": "-1001838759967",
       "value": "0"
     },
     "START_MESSAGE": {
@@ -72,4 +72,3 @@
     }
   }
 }
-
