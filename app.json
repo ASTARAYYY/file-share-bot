@@ -6,35 +6,35 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://github.com/ASTARAYYY/File",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
-      "description": "Your Bot token, Get it from @Botfather",
+      "description": "6505451357:AAGTjycsmQ0N7qQX1tEcsWc04sBDVSlsQ-E",,
       "value": ""
     },
     "OWNER_ID": {
-      "description": "An integer of consisting of your owner ID",
+      "description": "5684629431",
       "value": "1250450587"
     },
     "APP_ID":{
-      "description": "your app id, take it from my.telegram.org",
+      "description": "10771062",
       "value": ""
     },
     "DATABASE_URL": {
-      "description": "Paste your mongo db url",
+      "description": "mongodb+srv://astaray:lFvsvx1HCSvLO7Hq@astaray.nhfen4y.mongodb.net/?retryWrites=true&w=majority",
       "value": "url"
     },
     "DATABASE_NAME":{
-      "description": "Enter your DATABASE_NAME ",
+      "description": "astaray",
       "value": "filesharexbot"
     },
     "API_HASH":{
-      "description": "your api hash, take it from my.telegram.org",
+      "description": "73adcd8a0abf102413c271dc61e147be",
       "value": ""
     },
     "CHANNEL_ID":{
-      "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
+      "description": "-1001838759967",
       "value": "-100"
     },
     "FORCE_SUB_CHANNEL":{
